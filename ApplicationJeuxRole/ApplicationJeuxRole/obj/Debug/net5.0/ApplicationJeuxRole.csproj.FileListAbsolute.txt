@@ -1,0 +1,16 @@
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ApplicationJeuxRole.exe
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ApplicationJeuxRole.deps.json
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ApplicationJeuxRole.runtimeconfig.json
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ApplicationJeuxRole.runtimeconfig.dev.json
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ApplicationJeuxRole.dll
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ref\ApplicationJeuxRole.dll
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\bin\Debug\net5.0\ApplicationJeuxRole.pdb
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.csproj.AssemblyReference.cache
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.AssemblyInfoInputs.cache
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.AssemblyInfo.cs
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.csproj.CoreCompileInputs.cache
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.dll
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ref\ApplicationJeuxRole.dll
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.pdb
+C:\Users\14182\source\repos\ApplicationJeuxRole\ApplicationJeuxRole\obj\Debug\net5.0\ApplicationJeuxRole.genruntimeconfig.cache
